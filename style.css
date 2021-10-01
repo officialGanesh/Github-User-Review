@@ -1,4 +1,33 @@
 *{
     padding: 0px;
     margin: 0px;
+    text-align: center;
+    font-family: 'Roboto mono';
 }
+
+#title{
+
+    font-family: 'monospace';
+    font-size: 3rem;
+    font-weight: bolder;
+    margin: 0px 0px 15px 0px;
+
+}
+
+.container{
+    width: 55rem;
+    margin-top: 5rem;
+
+}
+
+#avatar{
+
+    margin:10px 0px 0px 20rem;
+    width: 25%;
+    border-radius: 50%;
+}
+
+.card{
+    background-color: 	#E8E8E8;
+}
+
